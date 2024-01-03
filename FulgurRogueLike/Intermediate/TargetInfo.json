@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FulgurRogueLike",
+			"Path": "..\\Source\\FulgurRogueLike.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FulgurRogueLikeEditor",
+			"Path": "..\\Source\\FulgurRogueLikeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

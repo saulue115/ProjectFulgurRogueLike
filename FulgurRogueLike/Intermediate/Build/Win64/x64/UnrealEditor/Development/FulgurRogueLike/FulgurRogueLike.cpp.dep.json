@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\ue projects\\projectfulgurroguelike\\fulgurroguelike\\source\\fulgurroguelike\\fulgurroguelike.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\ue projects\\projectfulgurroguelike\\fulgurroguelike\\intermediate\\build\\win64\\x64\\fulgurroguelikeeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\ue projects\\projectfulgurroguelike\\fulgurroguelike\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fulgurroguelike\\definitions.fulgurroguelike.h",
+            "c:\\ue projects\\projectfulgurroguelike\\fulgurroguelike\\source\\fulgurroguelike\\fulgurroguelike.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

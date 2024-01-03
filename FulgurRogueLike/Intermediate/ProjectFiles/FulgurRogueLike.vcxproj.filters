@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FulgurRogueLike.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FulgurRogueLike.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FulgurRogueLikeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FulgurRogueLike">
+      <UniqueIdentifier>{5A770E8F-B374-3E93-997D-AF541E1B6AE2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FulgurRogueLike\FulgurRogueLike.Build.cs">
+      <Filter>Source\FulgurRogueLike</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FulgurRogueLike\FulgurRogueLike.cpp">
+      <Filter>Source\FulgurRogueLike</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FulgurRogueLike\FulgurRogueLike.h">
+      <Filter>Source\FulgurRogueLike</Filter>
+    </ClInclude>
+    <Filter Include="Source\FulgurRogueLike\GameFramework">
+      <UniqueIdentifier>{9451FA11-9662-390A-BF17-482E911ADEF7}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FulgurRogueLike\GameFramework\MainGameModeBase.cpp">
+      <Filter>Source\FulgurRogueLike\GameFramework</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FulgurRogueLike\GameFramework\MainGameModeBase.h">
+      <Filter>Source\FulgurRogueLike\GameFramework</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

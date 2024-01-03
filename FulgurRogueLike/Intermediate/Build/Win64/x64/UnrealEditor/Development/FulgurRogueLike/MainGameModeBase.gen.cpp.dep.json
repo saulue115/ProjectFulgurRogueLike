@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\ue projects\\projectfulgurroguelike\\fulgurroguelike\\intermediate\\build\\win64\\unrealeditor\\inc\\fulgurroguelike\\uht\\maingamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\ue projects\\projectfulgurroguelike\\fulgurroguelike\\intermediate\\build\\win64\\x64\\fulgurroguelikeeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\ue projects\\projectfulgurroguelike\\fulgurroguelike\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fulgurroguelike\\definitions.fulgurroguelike.h",
+            "c:\\ue projects\\projectfulgurroguelike\\fulgurroguelike\\source\\fulgurroguelike\\gameframework\\maingamemodebase.h",
+            "c:\\epicgames\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\epicgames\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\epicgames\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\epicgames\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\ue projects\\projectfulgurroguelike\\fulgurroguelike\\intermediate\\build\\win64\\unrealeditor\\inc\\fulgurroguelike\\uht\\maingamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
